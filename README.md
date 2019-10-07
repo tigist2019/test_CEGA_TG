@@ -2,9 +2,10 @@
 Training 
 first line in readme file 
 tigist1
-second commit  
+second commit  (i edit line 5 locally) 
 this is another line from the "other computer"
 tigist2
 tigist3
 tigist4
-new editing 
+new editing
+
